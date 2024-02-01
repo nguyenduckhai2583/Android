@@ -22,6 +22,7 @@ public class adapter_teacher_teaching extends RecyclerView.Adapter<adapter_teach
     public adapter_teacher_teaching(ArrayList<teacher_info> mlist, Context mcontext) {
         this.mlist = mlist;
         this.mcontext = mcontext;
+        200556
     }
 
     @NonNull
